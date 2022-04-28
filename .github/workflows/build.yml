@@ -32,7 +32,3 @@ jobs:
     - run: npm run build
       env:
         CI: true
-    
-    - run: npm run check
-      env:
-        CI: true
