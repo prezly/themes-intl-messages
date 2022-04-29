@@ -25,6 +25,7 @@
         "build": "tsc --project .",
         "postbuild": "npm run copy-messages",
         "prerelease": "npm run build",
+        "lint": "eslint src",
         "prettier:check": "prettier --check './src/**/*.{ts,js}'",
         "prettier:fix": "prettier --write './src/**/*.{ts,js}'",
         "release": "np",
