@@ -78,7 +78,7 @@
     "message": "Κάτι πήγε στραβά. Παρακαλούμε προσπαθήστε να υποβάλλετε ξανά τη φόρμα"
   },
   "mediaGallery.title": {
-    "message": "Γκαλερί Μέσων"
+    "message": "Media galleries"
   },
   "misc.embargoMessage": {
     "description": "Embargo means that the story is not allowed to be shared before the specified date",
