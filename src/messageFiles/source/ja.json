@@ -78,7 +78,7 @@
     "message": "エラーが発生しました。もう一度フォームを送信してください。"
   },
   "mediaGallery.title": {
-    "message": "Media galleries"
+    "message": "メディアギャラリー"
   },
   "misc.embargoMessage": {
     "description": "Embargo means that the story is not allowed to be shared before the specified date",
