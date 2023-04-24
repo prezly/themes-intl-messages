@@ -12,7 +12,6 @@
         "noImplicitReturns": true,
         "moduleResolution": "node",
         "rootDir": "./src",
-        "esModuleInterop": true,
         "forceConsistentCasingInFileNames": true
     },
     "include": ["./src"],
