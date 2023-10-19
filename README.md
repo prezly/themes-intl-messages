@@ -1,3 +1,7 @@
+# ⚠️ The code has been moved to @prezly/theme-kit-js
+
+See https://github.com/prezly/theme-kit-js/tree/main/packages/intl#readme
+
 # Translations for Prezly Themes
 
 ![Version](https://img.shields.io/npm/v/@prezly/themes-intl-messages)
